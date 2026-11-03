@@ -1,1 +1,1 @@
-# git-conflict-practice
+# Written by Casper
